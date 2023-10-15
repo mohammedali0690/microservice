@@ -10,7 +10,7 @@ zuul:
       url: http://shoe:1002/api/v1
     wishlist:
       path: /wishlist/**
-      url: http://wishlist:1003
+      url: http://wishlist:1003/api/v1
     cart:
       path: /cart/**
       url: http://cart:1004/api/v1
